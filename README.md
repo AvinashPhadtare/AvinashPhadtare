@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Avinash, I am Developer,Always Trying to Solve Some Real World Problem Using AI
+
+
 <!--
 **AvinashPhadtare/AvinashPhadtare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
