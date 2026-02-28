@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋   I am Avinash,
 
-My name is Avinash, I am Great Learner,  
+I am Great Learner,  
 Always Trying to Solve Some Real World Problem Using AI
 
 
