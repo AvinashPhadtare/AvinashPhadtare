@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is Avinash, I am Developer,Always Trying to Solve Some Real World Problem Using AI
+My name is Avinash, I am Great Learner,  
+Always Trying to Solve Some Real World Problem Using AI
 
 
 <!--
