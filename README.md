@@ -1,4 +1,4 @@
-# 🧑‍💻 Avinash Phadtare
+# 🏄‍♂️ Avinash Phadtare
 
 **`Digital Craftsman(Coder, Problem Solver)`**
 
@@ -15,11 +15,13 @@ Currently focused on deep Python and practical web frameworks: shipping small ex
 
 ### 🧰 Languages and Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,django,flask,github" />
 </p>
 
 
+---
+### 🎈 You can reach me on Gmail.
 ---
 
 ### ✨My Journey-
