@@ -21,7 +21,9 @@ Currently focused on deep Python and practical web frameworks: shipping small ex
 
 
 ---
-### 📊 Stats
 
-
-![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvinashPhadtare&show_icons=true&rank_icon=github&theme=tokyonight)
+### ✨My Journey-
+I began my journey with C, learning how computers think at the lowest level.
+Python came next, where logic met creativity and problems started feeling solvable.
+Now I’m exploring Flask and Django, building real web systems while studying Python deeply.
+Along the way, I’m learning storytelling, persuasion, and world-building — so my code speaks to people, not just machines.
