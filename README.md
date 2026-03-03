@@ -1,4 +1,4 @@
-## Hi there 👋   I am Avinash,
+# 🏄‍♂️ Avinash Phadtare
 
 I am Great Learner,  
 Always Trying to Solve Some Real World Problem Using AI
