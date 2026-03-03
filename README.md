@@ -1,5 +1,5 @@
 # 🧑‍💻 Avinash Phadtare
----
+
 **`Digital Craftsman(Coder, Problem Solver)`**
 
 I’m a learner-first developer: started with C, fell in love with Python, now diving deep into Flask and Django.
@@ -16,5 +16,12 @@ Currently focused on deep Python and practical web frameworks: shipping small ex
 ### 🧰 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,django,flask" />
+  <img src="https://skillicons.dev/icons?i=c,python,django,flask,github" />
 </p>
+
+
+---
+### 📊 Stats
+
+
+![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvinashPhadtare&show_icons=true&rank_icon=github&theme=tokyonight)
