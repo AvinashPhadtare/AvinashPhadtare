@@ -16,7 +16,7 @@ Currently focused on deep Python and practical web frameworks: shipping small ex
 ### 🧰 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,django,flask,github,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,python,django,flask,github,html,css,git" />
 </p>
 
 
