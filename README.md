@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <img src="./assets/avinash-phadtare.png" alt="Portrait of Avinash Phadtare" width="160" />
+  <img src="./avinash-phadtare.png" alt="Portrait of Avinash Phadtare" width="160" />
 </p>
 
 <h1 align="center">🏄‍♂️ Avinash Phadtare</h1>
