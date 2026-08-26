@@ -1,11 +1,3 @@
-<a href="https://github.com/AvinashPhadtare">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvinashPhadtare/AvinashPhadtare/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvinashPhadtare/AvinashPhadtare/main/light.svg">
-    <img alt="Avinash Phadtare's GitHub profile" src="https://raw.githubusercontent.com/AvinashPhadtare/AvinashPhadtare/main/dark.svg" width="100%">
-  </picture>
-</a>
-
 <h1 align="center">🏄‍♂️ Avinash Phadtare</h1>
 
 <p align="center">
@@ -15,12 +7,19 @@
 <p align="center">
   Learner-first developer building thoughtful backend systems, automation, and AI-powered solutions.
 </p>
+<a href="https://github.com/AvinashPhadtare">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvinashPhadtare/AvinashPhadtare/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvinashPhadtare/AvinashPhadtare/main/light.svg">
+    <img alt="Avinash Phadtare's GitHub profile" src="https://raw.githubusercontent.com/AvinashPhadtare/AvinashPhadtare/main/dark.svg" width="100%">
+  </picture>
+</a>
 
 ---
 
-## About me
+## About Me
 
-I started with **C**, fell in love with **Python**, and now focus on backend systems using **FastAPI, PostgreSQL, and modern web technologies**. I build useful solutions through software, automation, and AI — with a strong interest in systems thinking and human-centered design.
+I started with **C**, fell in love with **Python**, and now build backend systems with **FastAPI, PostgreSQL, and modern web technologies**. I solve real problems through software, automation, and AI, with a strong interest in systems thinking and human-centered design.
 
 ---
 
@@ -46,23 +45,21 @@ I started with **C**, fell in love with **Python**, and now focus on backend sys
 
 ---
 
-## 🎯 Core Strengths
+## 💪 Core Strengths
 
-- **Python** — Deep focus
-- **FastAPI & Flask** — Backend development
-- **Frontend Fundamentals** — HTML, CSS, JavaScript, React basics
-- **Problem Solving** — AI & Automation
-- **Systems Thinking** — Mental model building
+- **Python** — deep focus
+- **FastAPI & Flask** — backend development
+- **Frontend fundamentals** — HTML, CSS, JavaScript, React basics
+- **AI & automation** — practical problem-solving
+- **Systems thinking** — mental-model building
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=AvinashPhadtare&theme=dark&hide_border=true" alt="Avinash's GitHub Streak" height="165" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AvinashPhadtare&theme=neon-dark&hide_border=true" alt="Avinash's GitHub Streak" height="165" />
 </p>
-
-> Live contribution graphs are already built into every GitHub profile page — shown above via GitHub's own streak-stats service rather than a custom-rendered chart.
 
 ---
 
@@ -83,23 +80,21 @@ A full-stack restaurant management system built with:
 - ⚡ FastAPI
 - 🐘 PostgreSQL
 - 🔐 JWT Authentication
-- 🛠️ Admin Dashboard
+- 🛠️ Admin dashboard
 
-🔗 **Live Project:** https://auraa-resto-management.vercel.app/menu?table=1
+🔗 **Live project:** https://auraa-resto-management.vercel.app/menu?table=1
 
 ---
 
 ## ✨ My Journey
 
-I started my journey with **C**, where I learned how computers think at a low level. That foundation helped me transition into **Python**, where problem-solving became more practical and creative.
+I started with **C**, learning how computers think at a low level. That foundation carried me into **Python**, where problem-solving became more practical and creative.
 
-Currently, I'm focused on mastering **Python deeply** while building real-world applications using **FastAPI and PostgreSQL**. Alongside backend development, I'm exploring frontend fundamentals to better understand how complete web systems come together.
+Right now I'm deepening my **Python** skills while building real applications with **FastAPI and PostgreSQL**, and picking up frontend fundamentals to understand how complete systems fit together.
 
-Beyond programming, I'm deeply interested in **systems thinking, storytelling, persuasion, and world-building** — disciplines that help me design software that fits people and real-world problems, not just technical requirements.
+Beyond code, I'm drawn to **systems thinking, storytelling, persuasion, and world-building** — disciplines that shape how I design software for people, not just for specs. My goal is to build things that are **simple, scalable, and genuinely useful**.
 
-I enjoy solving practical problems through **software, AI, and automation**. My goal is to build systems that are **simple, scalable, and genuinely useful**.
-
-> **I believe the fastest way to learn is by building, shipping, and continuously improving.**
+> I believe the fastest way to learn is by building, shipping, and improving.
 
 ---
 
@@ -113,6 +108,6 @@ I enjoy solving practical problems through **software, AI, and automation**. My 
 
 ### 💭 Philosophy
 
-> **Learning by building. Improving by shipping.**
+> Learning by building. Improving by shipping.
 
-I see myself as a **creative thinker, team-oriented builder, and problem solver** who values clarity over complexity — always aiming to build solutions that actually work in the real world.
+I'm a creative thinker and problem solver who values clarity over complexity — always aiming to build things that actually work in the real world.
