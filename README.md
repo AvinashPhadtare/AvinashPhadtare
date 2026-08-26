@@ -6,10 +6,6 @@
   </picture>
 </a>
 
-<p align="center">
-  <img src="./avinash-phadtare.png" alt="Portrait of Avinash Phadtare" width="160" />
-</p>
-
 <h1 align="center">🏄‍♂️ Avinash Phadtare</h1>
 
 <p align="center">
