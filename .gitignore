@@ -1,0 +1,25 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Environment / secrets — never commit these
+.env
+.env.*
+*.pem
+*.key
+
+# Accidental browser downloads / duplicates
+download
+download (*)
+*.download
+* (1).*
+* (2).*
+
+# Logs
+*.log
+npm-debug.log*
