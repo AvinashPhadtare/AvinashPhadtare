@@ -58,10 +58,8 @@ I started with **C**, fell in love with **Python**, and now build backend system
 ## 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AvinashPhadtare&theme=neon-dark&hide_border=true" alt="Avinash's GitHub Streak" height="165" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AvinashPhadtare&background=080C16&border=22C55E&stroke=10B981&ring=38BDF8&fire=FACC15&currStreakNum=FACC15&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="Avinash's GitHub Streak" height="165" />
 </p>
-
----
 
 ## 👀 Profile Views
 
