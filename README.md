@@ -101,6 +101,8 @@ Beyond code, I'm drawn to **systems thinking, storytelling, persuasion, and worl
 - 📧 **Email:** [phadtareavinash2008@gmail.com](mailto:phadtareavinash2008@gmail.com)
 - 💼 **LinkedIn:** [avinash-phadtare](https://www.linkedin.com/in/avinash-phadtare/)
 - 🐦 **X:** [@Avi_Phadtare](https://x.com/Avi_Phadtare)
+- 🧑‍💻 **Hackerrank:**  [@phadtareavinash1](https://www.hackerrank.com/profile/phadtareavinash1)
+
 
 ---
 
