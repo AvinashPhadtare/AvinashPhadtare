@@ -45,16 +45,6 @@ I started with **C**, fell in love with **Python**, and now build backend system
 
 ---
 
-## 💪 Core Strengths
-
-- **Python** — deep focus
-- **FastAPI & Flask** — backend development
-- **Frontend fundamentals** — HTML, CSS, JavaScript, React basics
-- **AI & automation** — practical problem-solving
-- **Systems thinking** — mental-model building
-
----
-
 ## 📊 GitHub Activity
 
 <p align="left">
@@ -107,7 +97,4 @@ Beyond code, I'm drawn to **systems thinking, storytelling, persuasion, and worl
 ---
 
 ### 💭 Philosophy
-
-> Learning by building. Improving by shipping.
-
-I'm a creative thinker and problem solver who values clarity over complexity — always aiming to build things that actually work in the real world.
+> I'm a creative thinker and problem solver who values clarity over complexity — always aiming to build things that actually work in the real world.
