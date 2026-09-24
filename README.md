@@ -26,7 +26,7 @@ I started with **C**, fell in love with **Python**, and now build backend system
 ## 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,flask,c,html,css,js,git,github,vscode" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,flask,c,git,github,vscode" alt="Languages and tools" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="48" width="48" alt="NumPy" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="48" width="48" alt="Pandas" />
   <img src="https://cdn.simpleicons.org/claude" height="48" width="48" alt="Claude" />
