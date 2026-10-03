@@ -39,7 +39,6 @@ I started with **C**, fell in love with **Python**, and now build backend system
 - 🐍 Deep Python
 - ⚡ FastAPI
 - 🐘 PostgreSQL
-- 🔐 JWT Authentication
 - 🏗️ System Design
 - 🤖 AI Engineering
 
@@ -59,7 +58,30 @@ I started with **C**, fell in love with **Python**, and now build backend system
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 📊 Student Result Analysis — Analytics Dashboard for Academic Performance
+
+A full-stack platform that turns raw student marks into actionable insights:
+
+- ⚡ FastAPI backend + 🐬 MySQL (Aiven)
+- 📈 Per-student radar charts, plus subject-wise and class-wide stats (toppers, pass/fail %, grade distribution)
+
+🔗 **Live project:** https://student-result-analysis-frontend.vercel.app/
+
+---
+
+### 🧩 Universal Dataframe Loader in Pandas
+
+A Python package that turns almost any data source into a pandas DataFrame with one function call — auto-detects the source type and handles it, instead of writing a different parser for every format:
+
+- 📄 CSV, Excel, JSON, and delimited text — auto-detected from file extension or content
+- 🗄️ SQL databases via any SQLAlchemy connection string
+- 🌐 Paginated REST APIs — config-driven (offset, page, cursor, or next-URL pagination styles)
+
+🔗 **GitHub:** https://github.com/AvinashPhadtare/Universal_dataframe_loader_in_pandas
+
+---
 
 ### 🍽️ AURAA RESTO — Restaurant Management System
 
