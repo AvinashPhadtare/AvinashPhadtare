@@ -54,9 +54,9 @@ Here is where I stand right now:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,flask,c,git,github,vscode" alt="Languages and tools" />
-  &nbsp;<img src="https://raw.githubusercontent.com/AvinashPhadtare/AvinashPhadtare/main/assets/numpy.svg" height="48" width="48" alt="NumPy" />
-  &nbsp;<img src="https://raw.githubusercontent.com/AvinashPhadtare/AvinashPhadtare/main/assets/pandas.svg" height="48" width="48" alt="Pandas" />
-  &nbsp;<img src="https://raw.githubusercontent.com/AvinashPhadtare/AvinashPhadtare/main/assets/claude.svg" height="48" width="48" alt="Claude" />
+  &nbsp;<img src="https://raw.githubusercontent.com/AvinashPhadtare/AvinashPhadtare/main/numpy.svg" height="48" width="48" alt="NumPy" />
+  &nbsp;<img src="https://raw.githubusercontent.com/AvinashPhadtare/AvinashPhadtare/main/pandas.svg" height="48" width="48" alt="Pandas" />
+  &nbsp;<img src="https://raw.githubusercontent.com/AvinashPhadtare/AvinashPhadtare/main/claude.svg" height="48" width="48" alt="Claude" />
 </p>
 
 ---
@@ -118,15 +118,16 @@ What it can load:
 
 **A restaurant management system.**
 
-A full web app, front and back, for running a restaurant. It's built with:
+A full web app, frontend and backend, for running a restaurant. It's built with:
 
 - ⚡ FastAPI for the backend
 - 🐘 PostgreSQL for the database
 - 🔐 JWT login, a safe way to keep track of who is logged in
 - 🛠️ An admin dashboard to manage the restaurant
 
-🔗 **Live project:** https://auraa-resto-management.vercel.app/menu?table=1 (this link opens the menu for table 1)
-
+🔗 **Live project:** https://auraa-resto-management.vercel.app/menu?table=1
+---
+### Note: This projects might be take time to load/render, because it is deployed on free services (render,vercel,aiven,neon,etc)  
 ---
 
 ## 📊 GitHub Activity
