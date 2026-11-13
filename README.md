@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-Hi, I'm Avinash. I'm a second-year diploma student in Artificial Intelligence and Machine Learning, from India.
+Hi, I'm Avinash. I'm a second-year diploma student in Artificial Intelligence and Machine Learning.
 
 I like making things that really work, and I like knowing why they work. This page is a short story of where I started, where I am right now, and where I want to go.
 
