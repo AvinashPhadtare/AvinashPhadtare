@@ -48,7 +48,7 @@ Here is where I stand right now:
 - I can do data analysis with NumPy, Pandas, Matplotlib, and Seaborn.
 - I'm just starting machine learning. I'm beginning with the math behind it, and then the main ML algorithms.
 
-## 🧰 Skills
+---
 
 ## 🧰 Languages & Tools
 
@@ -58,6 +58,7 @@ Here is where I stand right now:
   &nbsp;<img src="https://raw.githubusercontent.com/AvinashPhadtare/AvinashPhadtare/main/assets/pandas.svg" height="48" width="48" alt="Pandas" />
   &nbsp;<img src="https://raw.githubusercontent.com/AvinashPhadtare/AvinashPhadtare/main/assets/claude.svg" height="48" width="48" alt="Claude" />
 </p>
+
 ---
 
 ## 🎯 Current Focus
