@@ -126,8 +126,11 @@ A full web app, frontend and backend, for running a restaurant. It's built with:
 - 🛠️ An admin dashboard to manage the restaurant
 
 🔗 **Live project:** https://auraa-resto-management.vercel.app/menu?table=1
+
 ---
-### Note: This projects might be take time to load/render, because it is deployed on free services (render,vercel,aiven,neon,etc)  
+
+> ⏳ **Note:** These projects may take a little time to load, because they are hosted on free services (Render, Vercel, Aiven, Neon, etc.). Please give them a moment.
+
 ---
 
 ## 📊 GitHub Activity
@@ -152,4 +155,5 @@ Want to talk about a project, an idea, or learning AI? I'd love to hear from you
 ---
 
 ### 💭 Philosophy
+
 > I like solving problems in creative ways, and I'll always pick clear and simple over complicated. I learn fastest by building something, putting it online, and making it better. My aim is to make things that really work in the real world.
