@@ -1,4 +1,4 @@
-<h1 align="center">Avinash Phadtare</h1>
+<h1 align="center">🏄‍♂️ Avinash Phadtare </h1>
 
 <p align="center">
   <strong>AI/ML Diploma Student · Data Analysis → Machine Learning → NLP → Deep Learning</strong>
